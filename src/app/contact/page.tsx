@@ -47,12 +47,14 @@ function MusicSchoolContactUs() {
             rows={5}
             required
           ></textarea>
-          <button
-            type="submit"
-            className="px-6 py-2 rounded-lg bg-teal-500 text-white font-medium hover:bg-teal-600 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:ring-offset-2"
-          >
-            Send Message
-          </button>
+          <div className="w-40">
+            <button
+              type="submit"
+              className="py-4 relative border backdrop-blur-xl items-center justify-center w-full h-full text-sm antialiased bg-white dark:bg-slate-700 text-black dark:text-white border-neutral-200 dark:border-slate-800"
+            >
+              Send Message
+            </button>
+          </div>
         </form>
       </div>
     </div>

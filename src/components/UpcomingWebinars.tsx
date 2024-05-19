@@ -51,7 +51,7 @@ export default function UpcomingWebinars() {
             FEATURED WEBINARS
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
-            Enhance Your Musical Journey
+            Enhance Your Learning Journey
           </p>
         </div>
         <div className="mt-10">
@@ -67,7 +67,7 @@ export default function UpcomingWebinars() {
         <div className="mt-10 text-center">
           <Link
             href={'/courses'}
-            className="px-4 py-2 rounded border border-neutral-600 text-neutral-700 bg-white hover:bg-gray-100 transition duration-200"
+            className="py-4 px-5 relative border backdrop-blur-xl items-center justify-center w-full h-full text-sm antialiased bg-white dark:bg-slate-700 text-black dark:text-white border-neutral-200 dark:border-slate-800"
           >
             View All webinars
           </Link>
