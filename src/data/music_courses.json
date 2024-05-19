@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development",
+      "slug": "web-development",
+      "description": "Boost Your Web development Career by Learning and Mastering TypeScript, Express, Mongoose,Redis, Redux, Next.js, DBMS, SQL, PostgreSQL, AWS, Docker, Unit Testing and many more.",
+      "price": 99.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/course/web.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Web Design",
+      "slug": "web-design",
+      "description": "Start your design process with free website editable templates for inspiration. Sort through hundreds of website designs. Get started today!",
+      "price": 109.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/course/top11.png"
+    },
+    {
+      "id": 3,
+      "title": "SEO",
+      "slug": "seo",
+      "description": "The knowledge you need to do the SEO work yourself or supervise an SEO optimization team or outside SEO firm.",
+      "price": 119.99,
+      "instructor": "Emily Johnson",
+      "isFeatured": true,
+      "image": "/course/seo2.png"
+    },
+    {
+      "id": 4,
+      "title": "CMS Training",
+      "slug": "cms-training",
+      "description": "Learn to convert any static HTML, CSS template into a fully functional Custom Wordpress Theme in a step by step approach",
+      "price": 129.99,
+      "instructor": "Mike Brown",
+      "isFeatured": false,
+      "image": "/course/service-1.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Figma Design",
+      "slug": "figma-design",
+      "description": "Learn Figma Design with this course designed for all levels.",
+      "price": 139.99,
+      "instructor": "Chris Davis",
+      "isFeatured": false,
+      "image": "/course/design.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Facebook Marketing",
+      "slug": "facebook-marketing",
+      "description": "Link building to get highest-quality, most authoritative links and rank your site higher",
+      "price": 149.99,
+      "instructor": "Alex Wilson",
+      "isFeatured": true,
+      "image": "/course/seo.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "Mobile App Development",
+      "slug": "mobile-app",
+      "description": "Start here for a high-level overview of how to build apps using the latest Modern Android Development practices.",
+      "price": 159.99,
+      "instructor": "Samantha Miller",
+      "isFeatured": false,
+      "image": "/course/ser-2.png"
+    },
+    {
+      "id": 8,
+      "title": "Laravel Traning",
+      "slug": "laravel",
+      "description": "Start here for a high-level overview of how to build apps using the latest php, laravel practices.",
+      "price": 169.99,
+      "instructor": "Luke Harris",
+      "isFeatured": true,
+      "image": "/course/web.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Digital Marketing",
+      "slug": "digital-marketing",
+      "description": "Marketing through digital platforms has become a trendy topic in today’s world.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": true,
+      "image": "/course/seo2.png"
+    },
+    {
+      "id": 10,
+      "title": "MERN-stack Course",
+      "slug": "mern",
+      "description": "Begin a MERN stack course led by top rated professionals on Udemy and learn how you can build powerful, database driven applications.",
+      "price": 189.99,
+      "instructor": "Ethan Moore",
+      "isFeatured": true,
+      "image": "/course/Web-Development.jpg"
+    }
+  ]
+}
